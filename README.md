@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BINAH25
+- 👋 Hi, I’m LOUIS BINAH
 - 👀 I’m interested in mobile app development, website,software development etc
 - 🌱 I’m currently offering Computer Science at the University of Ghana
 - 💞️ I’m looking to collaborate on software development project
